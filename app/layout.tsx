@@ -63,7 +63,7 @@ export const metadata: Metadata = {
     google: "your-google-verification-code",
     yandex: "your-yandex-verification-code",
   },
-    generator: 'v0.dev'
+    generator: 'kavyansh'
 }
 
 export default function RootLayout({
