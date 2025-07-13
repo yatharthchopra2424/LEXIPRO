@@ -1,6 +1,6 @@
 # LexiPro - Legal Platform
 
-![LexiPro Logo](public/placeholder-logo.png)
+![LexiPro Logo](public/placeholder-logo.jpg)
 
 **Live Demo:** [https://lexipro-platform.vercel.app](https://lexipro-platform.vercel.app)
 
